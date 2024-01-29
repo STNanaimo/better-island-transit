@@ -1,0 +1,184 @@
+---
+title: Better Island Transit
+og_title: Better Island Transit - Connecting Vancouver Island With Frequent and Affordable Transit
+logo: # OPTIONAL '/images/logo.png'
+description: Frequent and affordable bus service connecting Victoria with central Vancouver Island would provide many user and community benefits including a low-stress alternative to driving, independent mobility for non-drivers, plus reduced congestion, crashes emission. It is far more cost effective, faster to implement, and provides more total benefits than other highway improvements. These improvements should be BC Transit and MoTI priorities for 2024.
+color_scheme: light # Choose auto, light, and dark
+
+author:
+  author_name: Better Island Transit
+  author_role: Advocacy Group for Convenient and Inexpensive Public Transit Connecting Central and South Vancouver Island
+  author_description: Frequent and affordable bus service connecting Victoria with central Vancouver Island would provide many user and community benefits including a low-stress alternative to driving, independent mobility for non-drivers, plus reduced congestion, crashes emission. It is far more cost effective, faster to implement, and provides more total benefits than other highway improvements. These improvements should be BC Transit and MoTI priorities for 2024.
+  author_avatar: "/images/logos/logo.png"
+
+menu_settings:
+  menu_items:
+    - title: "Home"
+      url: "/"
+    - title: "Read the Report"
+      url: "/report"
+    - title: "Contact"
+      url: "/contact"
+    # - title: "Resources"
+    #   submenu:
+    #     - url: "/about/"
+    #       title: "About"
+    #     - url: "/contact/"
+    #       title: "Contact"
+    #     - url: "/elements/"
+    #       title: "Elements"
+
+cta_button:
+  enable: false
+  cta_button_link: "/contact/"
+  cta_button_text: Get in touch
+
+hero:
+  enable: true
+  hero_intro: Connecting Vancouver Island
+  hero_title: Islanders Deserves Convenient And Addordable Transit
+  hero_description: The Island Highway between central and south Vancouver Island is congested, serving <b>30,000 daily travelers</b> with limited public transit. The lack of transit options leads to unfairness, inefficiency, increased traffic, congestion, accidents, and pollution. We're proposing frequent and affordable bus service—with fares not exceeding $5—between major cities on the island.
+  hero_images:
+    - alt: "Happy Riders on Their Local Bus"
+      url: "/images/hero/happy-bus-riders.png"
+    - alt: "Malahat Summit Sign"
+      url: "/images/hero/malahat-summit-sign.png"
+    - alt: "Double-Decker Bus in the CRD"
+      url: "/images/hero/double-decker-bus-crd.png"
+    - alt: "Map of Bus Route from Victoria to Duncan"
+      url: "/images/hero/google-maps-bus-victoria-duncan.png"
+
+mailchimp: enable # To enable the mailchimp form, use the value 'enable'. To disable the form, leave the field blank.
+mailchimp__identifier: gmail.us21.list-manage.com/subscribe/post?u=8aeb9c31a5c97a3a5f9ff2740&amp;id=0e31fd7793&amp # Add your MailChimp form identifier. For example - gmail.us21.list-manage.com/subscribe/post?u=8aeb9c31a5c97a3a5f9ff2740&amp;id=0e31fd7793&amp
+mailchimp__input__text: Your email address
+mailchimp__button__text: Subscribe
+
+projects:
+  enable: false
+  projects_title: Works
+
+testimonials:
+  enable: false
+  testimonials_title: See what our customers are saying
+
+testimonials_items:
+  - name: "Lucas Parker"
+    image: "/images/client-1.jpg"
+    designation: "Web Developer"
+    content: "If you're looking for a top-notch product designer, look no further. His ability to merge creativity with functionality is remarkable."
+    link: "https://twitter.com/"
+    icon: "fa-brands fa-twitter"
+    icon_color: "#1da1f3"
+
+  - name: "Olivia Williams"
+    image: "/images/client-2.jpg"
+    designation: "Data Analyst"
+    content: "His attention to every minute detail ensured that our products stand out, capturing the attention of potential customers."
+    link: "https://twitter.com/"
+    icon: "fa-brands fa-twitter"
+    icon_color: "#1da1f3"
+
+  - name: "Ava Martinez"
+    image: "/images/client-3.jpg"
+    designation: "Designer"
+    content: "The designer brought fresh ideas and innovative solutions to our project, delivering results that exceeded our expectations."
+    link: "https://twitter.com/"
+    icon: "fa-brands fa-twitter"
+    icon_color: "#1da1f3"
+
+  - name: "Evelyn Turner"
+    image: "/images/client-4.jpg"
+    designation: "Data Scientist"
+    content: "Exceptional talent! The designer was instrumental in crafting our brand's identity, infusing it with authenticity and personality."
+    link: "https://instagram.com/"
+    icon: "fa-brands fa-instagram"
+    icon_color: "#e1306c"
+
+  - name: "Oliver Davis"
+    image: "/images/client-5.jpg"
+    designation: "Software Engineer"
+    content: "Working with the designer was a breath of fresh air! His communication, timeliness, and creative flair were unparalleled."
+    link: "https://facebook.com/"
+    icon: "fa-brands fa-facebook-f"
+    icon_color: "#1977f3"
+
+  - name: "Isabella Lee"
+    image: "/images/client-6.jpg"
+    designation: "QA Engineer"
+    content: "His expertise in web design and branding elevated our online presence, attracting more visitors and increasing our conversions."
+    link: "https://twitter.com/"
+    icon: "fa-brands fa-twitter"
+    icon_color: "#1da1f3"
+
+  - name: "James Wright"
+    image: "/images/client-7.jpg"
+    designation: "Data Analyst"
+    content: "Jessy brought fresh ideas and innovative solutions to our project, delivering results that exceeded our expectations."
+    link: "https://facebook.com/"
+    icon: "fa-brands fa-facebook-f"
+    icon_color: "#1977f3"
+
+  - name: "Layla Foster"
+    image: "/images/client-8.jpg"
+    designation: "CEO"
+    content: "I can't thank Jessy enough for their outstanding UI/UX design services. He took our app's user experience to new heights."
+    link: "https://twitter.com/"
+    icon: "fa-brands fa-twitter"
+    icon_color: "#1da1f3"
+
+  - name: "Emily Collins"
+    image: "/images/client-9.jpg"
+    designation: "DevOps"
+    content: "Simply outstanding! The designer helped us turn our vague concept into a fully functional and visually stunning app."
+    link: "https://instagram.com/"
+    icon: "fa-brands fa-instagram"
+    icon_color: "#e1306c"
+
+blog:
+  enable: false
+  blog_title: Writing
+
+author_section:
+  enable: false
+  author_section_role: Product Designer
+  author_section_title: What do I say about myself?
+  author_section_description: When I'm not a Product Designer, I can often be found cycling through picturesque landscapes, immersing myself in the joy of two-wheeled adventures. Reading books is another passion of mine, as I love delving into captivating stories and exploring new ideas. Beyond these pursuits, I relish engaging in various activities that nurture my creativity and keep me inspired.
+  author_section_image: "/images/01.jpg"
+  author_section_button_text: hey@jesse.site.com
+  author_section_button_link: "mailto:hey@jesse.site.com"
+
+tags_section:
+  enable: false
+  tags_section_title: Explore our topics
+
+gallery:
+  enable: false
+  gallery_title: The Best Moments
+  gallery_images:
+    - alt: "Rest"
+      url: "/images/gallery-1.jpg"
+    - alt: "City"
+      url: "/images/gallery-2.jpg"
+    - alt: "Hobby"
+      url: "/images/gallery-3.jpg"
+    - alt: "Car"
+      url: "/images/gallery-4.jpg"
+    - alt: "Hobby"
+      url: "/images/gallery-5.jpg"
+    - alt: "Lifestyle"
+      url: "/images/gallery-6.jpg"
+
+social:
+  # - { icon: "fa-brands fa-twitter", link: "https://twitter.com" }
+  # - { icon: "fa-brands fa-facebook-f", link: "https://facebook.com" }
+  # - { icon: "fa-brands fa-instagram", link: "https://instagram.com" }
+  # - { icon: "fa-brands fa-pinterest", link: "https://pinterest.com" }
+  # - { icon: "fa-brands fa-dribbble", link: "https://dribbble.com" }
+# Example of adding a new link to the footer - {icon: "fa-brands fa-youtube", link: "https://youtube.com"}
+# Other icons can be found at https://fontawesome.com/icons
+
+contact:
+  email: contact@betterislandtransit.ca
+  description: Nuntu comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want. # Add a description of your form
+disqus_identifier: anvod-studio-test # Add your shortname for Disqus Comment. For example anvod-studio-test
+google_analytics: # Add your GA Tracking Id
