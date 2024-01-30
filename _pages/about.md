@@ -16,6 +16,8 @@ Our short-term goal is to increase frequency and reduce fares for bus service be
 
 It's often congested, dangerous and sometimes closed due to crashes, flooding and rockfalls. It's costly and environmentally damaging to expand, and it lacks mobility options for non-drivers. Every few years the provincial government develops proposals to reduce traffic problems on this corridor. These focus on costly roadway expansions, which only benefit motorists, or rail which would provide limited service with high fares. They give little consideration to frequent and affordable bus service.
 
+![Existing State of Island Transportation]({{site.baseurl}}/images/island-connections.png)
+
 Many community groups and local tribes oppose efforts to widen the highway through Gold Stream Park due to environmental concerns, and high-speed rail service that would impose noise and danger.
 
 ### Transit Along The Island Highway Is Infrequent And Expensive 
