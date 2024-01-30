@@ -17,8 +17,8 @@ menu_settings:
       url: "/"
     - title: "Read the Report"
       url: "/report"
-    - title: "Contact"
-      url: "/contact"
+    # - title: "Contact"
+    #   url: "/contact"
     # - title: "Resources"
     #   submenu:
     #     - url: "/about/"
@@ -39,17 +39,17 @@ hero:
   hero_title: Islanders Deserves Convenient And Addordable Transit
   hero_description: The Island Highway between central and south Vancouver Island is congested, serving <b>30,000 daily travelers</b> with limited public transit. The lack of transit options leads to unfairness, inefficiency, increased traffic, congestion, accidents, and pollution. We're proposing frequent and affordable bus service—with fares not exceeding $5—between major cities on the island.
   hero_images:
+    - alt: "Double-Decker Bus in the CRD"
+      url: "/images/hero/double-decker-bus-crd.png"
     - alt: "Happy Riders on Their Local Bus"
       url: "/images/hero/happy-bus-riders.png"
     - alt: "Malahat Summit Sign"
       url: "/images/hero/malahat-summit-sign.png"
-    - alt: "Double-Decker Bus in the CRD"
-      url: "/images/hero/double-decker-bus-crd.png"
     - alt: "Map of Bus Route from Victoria to Duncan"
       url: "/images/hero/google-maps-bus-victoria-duncan.png"
 
-mailchimp: enable # To enable the mailchimp form, use the value 'enable'. To disable the form, leave the field blank.
-mailchimp__identifier: gmail.us21.list-manage.com/subscribe/post?u=8aeb9c31a5c97a3a5f9ff2740&amp;id=0e31fd7793&amp # Add your MailChimp form identifier. For example - gmail.us21.list-manage.com/subscribe/post?u=8aeb9c31a5c97a3a5f9ff2740&amp;id=0e31fd7793&amp
+mailchimp: false
+mailchimp__identifier: https://betterislandtransit.us8.list-manage.com/subscribe/post?u=541ff6359f7c9e7988ad94813&amp;id=795f10b9a4&amp;f_id=005708e0f0
 mailchimp__input__text: Your email address
 mailchimp__button__text: Subscribe
 
