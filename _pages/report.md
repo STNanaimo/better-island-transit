@@ -6,6 +6,6 @@ permalink: /report
 # image: '/images/03.jpg'
 ---
 
-<embed class="embed__pdf" src="https://www.vtpi.org/dvbs.pdf" type="application/pdf">
+<embed class="embed__pdf" src="{{ site.baseurl }}/bit-report.pdf" type="application/pdf">
 
 ***
