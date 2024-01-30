@@ -70,13 +70,13 @@ layout: default
   <div class="post-author">
     <div class="post-author__info">
       {% if site.data.settings.author.author_avatar %}
-        <a href="{{ site.baseurl }}/about/" class="post-author__avatar">
+        <a href="{{ site.baseurl }}/about\" class="post-author__avatar">
           <img class="lazy" data-src="{{ site.data.settings.author.author_avatar }}" alt="{{ site.data.settings.author.author_name }}">
         </a>
       {% endif %}
       <div class="post-author__meta">
         {% if site.data.settings.author.author_name %}
-          <a href="{{ site.baseurl }}/about/" class="post-author__link">{{ site.data.settings.author.author_name }}</a>
+          <a href="{{ site.baseurl }}/about" class="post-author__link">{{ site.data.settings.author.author_name }}</a>
         {% endif %}
         {% if site.data.settings.author.author_role %}
           <span class="post-author__role">{{ site.data.settings.author.author_role }}</span>

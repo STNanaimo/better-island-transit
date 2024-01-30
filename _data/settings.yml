@@ -17,8 +17,8 @@ menu_settings:
       url: "/"
     - title: "Read the Report"
       url: "/report"
-    # - title: "Contact"
-    #   url: "/contact"
+    - title: "Learn More"
+      url: "/about"
     # - title: "Resources"
     #   submenu:
     #     - url: "/about/"
@@ -36,7 +36,7 @@ cta_button:
 hero:
   enable: true
   hero_intro: Connecting Vancouver Island
-  hero_title: Islanders Deserves Convenient And Addordable Transit
+  hero_title: Islanders Deserves Convenient And Affordable Transit
   hero_description: The Island Highway between central and south Vancouver Island is congested, serving <b>30,000 daily travelers</b> with limited public transit. The lack of transit options leads to unfairness, inefficiency, increased traffic, congestion, accidents, and pollution. We're proposing frequent and affordable bus service—with fares not exceeding $5—between major cities on the island.
   hero_images:
     - alt: "Double-Decker Bus in the CRD"

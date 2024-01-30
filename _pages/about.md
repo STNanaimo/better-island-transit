@@ -1,46 +1,32 @@
 ---
 layout: page
-title: About Me
-description: My design philosophy revolves around the principles of user-centricity and empathy. I firmly believe that understanding the needs, behaviors, and aspirations of users is the key to creating products that truly resonate with them. By placing the end-users at the heart of my design process, I strive to build solutions that address real-world challenges and spark meaningful connections.
-permalink: /about/
-image: '/images/01-2.jpg'
+title: We're Want Better Island Transit
+description: Our goal is to create convenient and affordable public transportation on Vancouver Island. We will build public support and lobby local, regional and provincial governments to plan, fund and implement frequent, affordable bus service connecting central and south Vancouver Island.
+permalink: /about
+# image: '/images/og.png'
 ---
 
-Hello there! Welcome to my corner of the digital world. My name is Jesse, and I am a passionate Product Designer with a flair for crafting exceptional user experiences. I believe that design is not just about aesthetics but a powerful tool to make a positive impact on people's lives.
+Frequent and affordable public transit service can provide convenient independent mobility for travellers who cannot, should not or prefer not to drive on Island highways. It also _reduces road congestion, crashes and pollution emissions_. It supports local economic development by helping students access school, workers access jobs, businesses access employees and tourists access rural areas. It helps create more livable, equitable and successful communities.
 
-## Curiosity and Creativity
+![Current Central to Southern Vancouver Island Transit Services]({{site.baseurl}}/images/island-trip-cost.png)
 
-Curiosity drives me to explore the uncharted territories of design. I love pushing the boundaries and venturing into new design paradigms. As a perpetual learner, I stay updated with the latest industry trends, emerging technologies, and design methodologies, incorporating them into my work to deliver innovative and cutting-edge solutions.
+Our short-term goal is to increase frequency and reduce fares for bus service between Duncan and Victoria (#66) and between Duncan and Nanaimo (#70). This will provide convenient and affordable public transportation from central Vancouver Island to Victoria and Sooke.
 
-![Workflow]({{site.baseurl}}/images/01-3.jpg)
-*Photo by [Faizur Rehman](https://unsplash.com/photos/JpPBhhLFRRc) on [Unsplash](https://unsplash.com/)*
+### Island Highways Carries Roughly 30,000 people Per Day
 
-As a Product Designer, I see design challenges as exciting opportunities to find elegant solutions. I enjoy breaking down complex problems into manageable components, collaborating with cross-functional teams, and iterating through multiple design cycles to arrive at the most effective and user-friendly outcomes.
+It's often congested, dangerous and sometimes closed due to crashes, flooding and rockfalls. It's costly and environmentally damaging to expand, and it lacks mobility options for non-drivers. Every few years the provincial government develops proposals to reduce traffic problems on this corridor. These focus on costly roadway expansions, which only benefit motorists, or rail which would provide limited service with high fares. They give little consideration to frequent and affordable bus service.
 
-Beyond just aesthetics, I am deeply committed to designing for impact. Whether it's improving daily routines, enhancing productivity, or fostering connections, I strive to leave a lasting impression on users' lives through my creations.
+Many community groups and local tribes oppose efforts to widen the highway through Gold Stream Park due to environmental concerns, and high-speed rail service that would impose noise and danger.
 
-<div class="gallery-box">
-  <div class="gallery">
-    <img src="/images/101.jpg" alt="workflow" loading="lazy">
-    <img src="/images/102.jpg" alt="workflow" loading="lazy">
-    <img src="/images/103.jpg" alt="workflow" loading="lazy">
-    <img src="/images/104.jpg" alt="workflow" loading="lazy">
-    <img src="/images/105.jpg" alt="workflow" loading="lazy">
-    <img src="/images/106.jpg" alt="workflow" loading="lazy">
-  </div>
-  <em>Gallery / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
-</div>
+### Transit Along The Island Highway Is Infrequent And Expensive 
 
-I am a firm believer in giving back to the design community that has nurtured and supported me. I volunteer my time to mentor aspiring designers, participate in design forums, and contribute to open-source projects. Sharing knowledge and collaborating with fellow designers brings a sense of fulfillment and camaraderie.
+Between central and south Vancouver Island, transit service is currently infrequent and expensive. The Duncan-Victoria link has only four daily buses, with no reverse commute or off-peak service and $10 one-way fares.
 
-## Collaboration and Communication
+- **Qualicum Beach/Parksville/Nanaimo** (#91, 50 kms, 52 minutes) has 18 daily trips with $2.50 one-way fares. Less than 1% transit mode share.
+- **Nanaimo/Duncan** (#70, 50 kms, 70 minutes) has 7 daily trips with $7.50 fares. Less than 1% transit mode share.
+- **Duncan/Victoria** (#66, 60 kms, 75 minutes) has only 4 daily trips with $10 one-way fares. Less than 1% transit mode share.
+- **Sooke/Victoria** (#61, 40 kms, 70 minutes) has 43 daily trips with $2.50 fares. More than 20% peak-period transit mode share.
 
-Design has been an incredible journey of growth and self-discovery for me. I am deeply grateful for every opportunity that has come my way, every challenge that has shaped my skills, and every success that has inspired me to aim higher. With humility and enthusiasm, I look forward to the next chapter in my design adventure.
-
-> To design is to communicate clearly by whatever means you can control or master.
->
-<cite>- Milton Glaser</cite>
-
-I firmly believe that great design is a result of effective collaboration and communication. I enjoy working closely with stakeholders, developers, and fellow designers to align visions, share ideas, and collectively bring projects to life.
+Provincial leadership is **necessary** to plan intercity public transit services that connect island communities. This would be a model for other intercity transit connections.
 
 ***
