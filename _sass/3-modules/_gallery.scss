@@ -11,6 +11,11 @@
   }
 }
 
+.members-gallery img {
+  cursor: pointer !important;
+  pointer-events: none !important;
+}
+
 .gallery {
   display: grid;
   grid-template-columns: repeat(3, auto);

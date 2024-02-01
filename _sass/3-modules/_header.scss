@@ -21,6 +21,24 @@
 
 .logo__image {
   max-height: 50px;
+
+}
+
+.desktop_logo {
+  @media (max-width: $mobile) {
+    display: none;
+    visibility: hidden;
+  }
+}
+
+.mobile_logo {
+  display: none;
+  visibility: hidden;
+
+  @media (max-width: $mobile) {
+    display: inherit;
+    visibility: visible;
+  }
 }
 
 /* Nav */

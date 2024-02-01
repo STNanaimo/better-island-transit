@@ -2,6 +2,7 @@
 title: Better Island Transit
 og_title: Better Island Transit - Connecting Vancouver Island With Frequent and Affordable Transit
 logo: /images/bit-header.png
+logo_mobile: /images/bit-header-mobile.png
 description: Frequent and affordable bus service connecting Victoria with central Vancouver Island would provide many user and community benefits including a low-stress alternative to driving, independent mobility for non-drivers, plus reduced congestion, crashes emission. It is far more cost effective, faster to implement, and provides more total benefits than other highway improvements. These improvements should be BC Transit and MoTI priorities for 2024.
 color_scheme: light # Choose auto, light, and dark
 
@@ -18,6 +19,8 @@ menu_settings:
     - title: "Read the Report"
       url: "/report"
     - title: "Learn More"
+      url: "/goals"
+    - title: "About Us"
       url: "/about"
     # - title: "Resources"
     #   submenu:
@@ -37,7 +40,7 @@ hero:
   enable: true
   hero_intro: Connecting Vancouver Island
   hero_title: Islanders Deserves Convenient and Affordable Public Transportation
-  hero_description: The Island Highway between central and south Vancouver Island is congested, serving <b>30,000 daily travelers</b> with limited public transit. The lack of transit options leads to unfairness, inefficiency, increased traffic, congestion, accidents, and pollution. We're proposing frequent and affordable bus service—with fares not exceeding $5—between major cities on the island.
+  hero_description: The Island Highway between central and south Vancouver Island is congested, serving <b>30,000 daily travelers</b> with limited public transit. The lack of transit options leads to unfairness, inefficiency, increased traffic, congestion, accidents, and pollution. We're proposing frequent and affordable bus service—with fares not exceeding $5—between major cities on the island. <b>Subscribe below to receive emails on our public campaigns and events.</b>
   hero_images:
     - alt: "Double-Decker Bus in the CRD"
       url: "/images/hero/double-decker-bus-crd.png"
@@ -45,8 +48,8 @@ hero:
       url: "/images/hero/happy-bus-riders.png"
     - alt: "Malahat Summit Sign"
       url: "/images/hero/malahat-summit-sign.png"
-    - alt: "Map of Bus Route from Victoria to Duncan"
-      url: "/images/hero/google-maps-bus-victoria-duncan.png"
+    - alt: "Map of Vancouver Island"
+      url: "/images/hero/google-maps-island.png"
 
 mailchimp: false
 mailchimp__identifier: https://betterislandtransit.us8.list-manage.com/subscribe/post?u=541ff6359f7c9e7988ad94813&amp;id=795f10b9a4&amp;f_id=005708e0f0
