@@ -21,9 +21,7 @@ Frequent and affordable public transit service can provide convenient independen
     <img src="/images/members/bruce-batchelor.png" alt="Bruce Batchelor" loading="lazy">
     <img src="/images/members/david-sadoway.png" alt="David Sadoway" loading="lazy">
     <img src="/images/members/denise-savoie.png" alt="Denise Savoie" loading="lazy">
-    <img src="/images/members/eric-aderneck.png" alt="Eric Aderneck" loading="lazy">
     <img src="/images/members/anastasia-lukyanova.png" alt="Anastasia Lukyanova" loading="lazy">
-    <img src="/images/members/eric-doherty.png" alt="Eric Doherty" loading="lazy">
     <img src="/images/members/guy-dauncey.png" alt="Guy Dauncey" loading="lazy">
     <img src="/images/members/douglas-baer.png" alt="Douglas Baer" loading="lazy">
     <img src="/images/members/john-dwyer.png" alt="John Dwyer" loading="lazy">
