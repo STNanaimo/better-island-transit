@@ -20,12 +20,18 @@ menu_settings:
       url: "/report"
     - title: "About Us"
       url: "/about"
-    - title: "Learn More"
+    - title: "More Information"
       submenu:
+        - url: "/news"
+          title: "News"
         - url: "/members"
           title: "Members"
         - url: "/goals"
           title: "Goals"
+        - url: "/support"
+          title: "Support Us"
+        - url: "/presskit"
+          title: "Presskit"
 
 cta_button:
   enable: false
@@ -36,7 +42,7 @@ hero:
   enable: true
   hero_intro: Connecting Vancouver Island
   hero_title: Islanders Deserves Convenient and Affordable Public Transportation
-  hero_description: The Island Highway between central and south Vancouver Island is congested, serving <b>30,000 daily travelers</b> with limited public transit. The lack of transit options leads to unfairness, inefficiency, increased traffic, congestion, accidents, and pollution. We're proposing frequent and affordable bus service—with fares not exceeding $5—between major cities on the island. <b>Subscribe below to receive emails on our public campaigns and events.</b>
+  hero_description: Vancouver Island currently has infrequent and expensive intercity public transit that serves a tiny portion of demand for a few communities. This is inconvenient for both Islanders and tourists, dealing with increased traffic, roadway congestion, accidents, and pollution. Moreover, it will be years before the E&N corridor is functional. Better Island Transit is lobbying governments to implement frequent and affordable bus service with low fares throughout the Island. Our first step is to increase the frequency of the existing bus service between Victoria to Duncan. Further initiatives will support bus service to destinations such as Courtenay,  Campbell River, Port Alberni, Ucluelet and Tofino along with potential daily service to Port McNeil and Port Hardy. We hope our initiatives will lead to improvements in intercity bus service throughout the province.
   hero_images:
     - alt: "Double-Decker Bus in the CRD"
       url: "/images/hero/double-decker-bus-crd.png"
