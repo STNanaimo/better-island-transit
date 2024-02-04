@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Better Island Transit
-description: Our goal is to create convenient and affordable public transportation on Vancouver Island. We will build public support and lobby local, regional and provincial governments to plan, fund and implement frequent, affordable bus service connecting central and south Vancouver Island.
+description: Vancouver Island currently has infrequent and expensive intercity public transit that serves a tiny portion of demand for a few communities. Better Island Transit is lobbying governments to implement frequent and affordable bus service with low fares throughout the Island.  
 permalink: /about
 # image: '/images/og.png'
 ---

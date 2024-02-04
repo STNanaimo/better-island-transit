@@ -18,18 +18,14 @@ menu_settings:
       url: "/"
     - title: "Read the Report"
       url: "/report"
-    - title: "Learn More"
-      url: "/goals"
     - title: "About Us"
       url: "/about"
-    # - title: "Resources"
-    #   submenu:
-    #     - url: "/about/"
-    #       title: "About"
-    #     - url: "/contact/"
-    #       title: "Contact"
-    #     - url: "/elements/"
-    #       title: "Elements"
+    - title: "Learn More"
+      submenu:
+        - url: "/members"
+          title: "Members"
+        - url: "/goals"
+          title: "Goals"
 
 cta_button:
   enable: false
@@ -48,8 +44,8 @@ hero:
       url: "/images/hero/happy-bus-riders.png"
     - alt: "Malahat Summit Sign"
       url: "/images/hero/malahat-summit-sign.png"
-    - alt: "Map of Vancouver Island"
-      url: "/images/hero/google-maps-island.png"
+    - alt: "Number 66 Bus from Victoria to Duncan"
+      url: "/images/hero/google-maps-bus-victoria-duncan.png"
 
 mailchimp: false
 mailchimp__identifier: https://betterislandtransit.us8.list-manage.com/subscribe/post?u=541ff6359f7c9e7988ad94813&amp;id=795f10b9a4&amp;f_id=005708e0f0
