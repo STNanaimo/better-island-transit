@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Better Island Transit
-description: We are a group of activists, subject-matter experts and citizens lobbying for convenient and affordable better public transportation on Vancouver Island.   
+description: We are a group of activists, subject-matter experts and citizens lobbying for convenient and affordable public transportation on Vancouver Island.   
 permalink: /about
 # image: '/images/og.png'
 ---
