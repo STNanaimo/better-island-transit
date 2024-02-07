@@ -28,10 +28,10 @@ menu_settings:
           title: "Members"
         - url: "/goals"
           title: "Goals"
-        - url: "/support"
-          title: "Support Us"
-        - url: "/presskit"
-          title: "Presskit"
+        # - url: "/support"
+        #   title: "Support Us"
+        # - url: "/presskit"
+        #   title: "Presskit"
 
 cta_button:
   enable: false

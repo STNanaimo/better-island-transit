@@ -2,7 +2,7 @@
 username: alastair-craighead
 name: Alastair Craighead
 image: '/images/logos/logo.png'
-designation: "Rails to Trails Vancouver Island"
+designation: "Vice President"
 link: https://fortvi.ca/ 
 ---
 

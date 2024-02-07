@@ -2,7 +2,7 @@
 username: david-sadoway 
 name: David Sadoway 
 image: '/images/logos/logo.png'
-designation: "Kwantlen Polytechnic University"
+designation: "Member, KPU"
 link: https://www.kpu.ca/arts/geography/faculty/david-sadoway 
 ---
 

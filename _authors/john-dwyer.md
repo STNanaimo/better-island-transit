@@ -2,7 +2,7 @@
 username: john-dwyer
 name: John Dwyer
 image: '/images/logos/logo.png'
-designation: "Better Island Transit"
+designation: "Treasurer"
 link: 
 ---
 

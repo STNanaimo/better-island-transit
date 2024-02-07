@@ -2,7 +2,7 @@
 username: michael-bassili
 name: Michael Bassili
 image: '/images/authors/michael-bassili.jpg'
-designation: "Strong Towns Nanaimo"
+designation: "Director of Communications"
 link: https://beautifulnanaimo.ca
 ---
 

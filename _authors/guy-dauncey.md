@@ -2,7 +2,7 @@
 username: guy-dauncey
 name: Guy Dauncey
 image: '/images/logos/logo.png'
-designation: "Better Island Transit"
+designation: "Member"
 link: https://thepracticalutopian.ca 
 ---
 
