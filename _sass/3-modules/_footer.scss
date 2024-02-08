@@ -178,7 +178,14 @@
     color: var(--heading-font-color);
   }
 
-  @media (max-width: $desktop) {
-    text-align: left;
+  // @media (max-width: $desktop) {
+  //   text-align: left;
+  // }
+}
+
+.copyright_breaks { 
+  @media (max-width: $tablet) {
+    display: none;
+    visibility: hidden;
   }
 }

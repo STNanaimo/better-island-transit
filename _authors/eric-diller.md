@@ -1,7 +1,7 @@
 ---
 username: eric-diller
 name: Eric Diller
-image: '/images/logos/logo.png'
+image: '/images/authors/eric-diller.jpeg'
 designation: "Member"
 link: https://bettertransityyj.ca/
 ---
