@@ -312,11 +312,11 @@
   .dropdown-menu {
     position: absolute;
     top: calc(100% + 8px);
-    left: -40px;
+    left: 0;  // -40px
     transform: translate3d(0, -10px, 0);
     backface-visibility: hidden;
     z-index: -1;
-    min-width: 420px;
+    // min-width: 420px;
     display: block;
     padding: 40px;
     opacity: 0;
