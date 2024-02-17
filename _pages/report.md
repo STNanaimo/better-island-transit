@@ -6,12 +6,18 @@ permalink: /report
 # image: '/images/03.jpg'
 ---
 
-## PDF Report on Island Transit
+## Report on Island Transit
 
 <embed class="embed__pdf" src="{{ site.baseurl }}/bit-report.pdf" type="application/pdf">
 
 ***
 
-## PowerPoint Presentation on Island Transit
+## What We Want and Don't Want
+
+<embed class="embed__pdf" src="{{ site.baseurl }}/bit-www.pdf" type="application/pdf">
+
+***
+
+## Public Presentation on Island Transit
 
 <embed class="embed__pdf" src="{{ site.baseurl }}/bit-presentation.pdf" type="application/pdf">
