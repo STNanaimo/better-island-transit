@@ -1,7 +1,7 @@
 ---
 username: john-dwyer
 name: John Dwyer
-image: '/images/logos/logo.png'
+image: '/images/authors/john-dwyer.jpg'
 designation: "Treasurer"
 link: 
 ---

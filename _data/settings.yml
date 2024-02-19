@@ -18,7 +18,7 @@ menu_settings:
       url: "/"
     - title: "About Us"
       url: "/about"
-    - title: "<u style=\"text-decoration-style: wavy;text-decoration-color: #004aad;\">Read the Report</u>"
+    - title: "Read the Report"
       url: "/report"
     - title: "More Information"
       submenu:
