@@ -16,22 +16,20 @@ menu_settings:
   menu_items:
     - title: "Home"
       url: "/"
-    - title: "About Us"
+    - title: "About"
       url: "/about"
-    - title: "Read the Report"
+    - url: "/goals"
+      title: "Goals"
+    - title: "Report"
       url: "/report"
-    - title: "More Information"
+    - title: "More"
       submenu:
-        - url: "/news"
-          title: "News"
         - url: "/members"
           title: "Members"
-        - url: "/goals"
-          title: "Goals"
-        # - url: "/support"
-        #   title: "Support Us"
-        # - url: "/presskit"
-        #   title: "Presskit"
+        - url: "/news"
+          title: "News"
+        - url: "/press"
+          title: "Presskit"
 
 cta_button:
   enable: false
