@@ -34,6 +34,10 @@
     width: calc(100% - 24px);
   }
 
+  img:hover, img:active {
+    transform: scale(1.05);
+  }
+
   .gallery__image {
     background: var(--background-color);
 

@@ -17,6 +17,13 @@
   line-height: 1;
   font-weight: 900;
   letter-spacing: $heading-letter-spacing;
+  display: flex;
+  align-items: center;
+}
+
+.logo_text {
+  margin-bottom: 0;
+  margin-left: 20px;
 }
 
 .logo__image {
@@ -32,13 +39,16 @@
 }
 
 .mobile_logo {
-  display: none;
-  visibility: hidden;
+  // display: none;
+  // visibility: hidden;
 
-  @media (max-width: $mobile) {
-    display: inherit;
-    visibility: visible;
-  }
+  display: inherit;
+  visibility: visible;
+
+  // @media (max-width: $mobile) {
+  //   display: inherit;
+  //   visibility: visible;
+  // }
 }
 
 /* Nav */
