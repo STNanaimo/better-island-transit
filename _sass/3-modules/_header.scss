@@ -68,9 +68,9 @@
     right: $base-spacing-unit;
     z-index: -1;
     flex-direction: column;
-    min-width: 200px;
+    // min-width: 200px;
     margin-left: auto;
-    padding: 24px 20px;
+    padding: 30px 30px;
     border-radius: 22px;
     transform: translate3d(0, -10px, 0);
     opacity: 0;
@@ -322,7 +322,7 @@
   .dropdown-menu {
     position: absolute;
     top: calc(100% + 8px);
-    left: 0;  // -40px
+    left: -100px;
     transform: translate3d(0, -10px, 0);
     backface-visibility: hidden;
     z-index: -1;
