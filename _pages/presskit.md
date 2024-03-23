@@ -6,6 +6,16 @@ permalink: /press
 # image: '/images/03.jpg'
 ---
 
+## Media Release: Better Island Transit (BIT) Advocates for Frequent and Affordable Public Transit on Vancouver Island
+
+Better bus service would benefit tens of thousands of Island residents who cannot, should not or prefer not to drive on busy roadways, and is the most cost-effective way to reduce Island Highway traffic problems.
+
+- 🔗 [Download "Media Release: Better Island Transit (BIT)"]({{ site.baseurl }}/reports/2024-02-26-initial-media-release.pdf)
+
+“All we want,” Explains Litman, “is the same quality of transit service between Nanaimo and Victoria as currently exists between Sooke and Victoria. We don’t want to leave people behind.”
+
+<em>Published: February 26th, 2024</em>
+
 ## Style Guide - Fonts & Colours
 
 BIT uses the following font families and colours in its branding.
@@ -36,4 +46,4 @@ You can click or tap on each image in the library for a full-size version.
   <em>For custom variations, email <a href="mailto:press@betterislandtransit.ca">press@betterislandtransit.ca</a> directly.</em>
 </div>
 
-
+***

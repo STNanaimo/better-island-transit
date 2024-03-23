@@ -27,7 +27,7 @@
   &::after {
     content: "";
     position: absolute;
-    bottom: 20px;
+    top: 20px;
     display: block;
     height: 180px;
     width: 100%;
@@ -37,13 +37,13 @@
 }
 
 .testimonial__text {
-  margin-bottom: 24px;
+  margin-top: 24px;
   font-size: 16px;
   line-height: 1.63;
   color: var(--text-alt-color);
 
   @media (max-width: $tablet) {
-    margin-bottom: 20px;
+    margin-top: 20px;
   }
 }
 

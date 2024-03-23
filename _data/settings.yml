@@ -8,7 +8,7 @@ color_scheme: light # Choose auto, light, and dark
 
 author:
   author_name: Better Island Transit
-  author_role: Advocacy Group for Convenient and Inexpensive Public Transit Connecting Central and South Vancouver Island
+  author_role: Frequent, convenient, and inexpensive transit on Vancouver Island
   author_description: Frequent and affordable bus service connecting Victoria with central Vancouver Island would provide many user and community benefits including a low-stress alternative to driving, independent mobility for non-drivers, plus reduced congestion, crashes emission. It is far more cost effective, faster to implement, and provides more total benefits than other highway improvements. These improvements should be BC Transit and MoTI priorities for 2024.
   author_avatar: "/images/logos/logo.png"
 
@@ -26,6 +26,8 @@ menu_settings:
       submenu:
         - url: "/members"
           title: "Members"
+        - url: "/media"
+          title: "Media"
         - url: "/news"
           title: "News"
         - url: "/press"
@@ -138,8 +140,7 @@ testimonials_items:
     icon_color: "#e1306c"
 
 blog:
-  enable: false
-  blog_title: Writing
+  enable: true
 
 author_section:
   enable: false

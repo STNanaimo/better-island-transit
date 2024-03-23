@@ -1,6 +1,6 @@
 #-------------------------------
 # General Site Settings
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /news
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 
@@ -13,7 +13,7 @@ plugins:
   - jekyll-sitemap
 
 paginate: 4
-paginate_path: "/blog/page/:num"
+paginate_path: "/news/page/:num"
 
 
 #-------------------------------
@@ -24,7 +24,7 @@ collections:
     permalink: /:name
   posts:
     output: true
-    permalink: /blog/:slug
+    permalink: /news/:slug
   projects:
     output: true
     permalink: /project/:slug
