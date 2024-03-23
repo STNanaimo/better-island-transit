@@ -44,14 +44,14 @@ hero:
   hero_title: Islanders Deserves Convenient and Affordable Public Transportation
   hero_description: Vancouver Island currently has infrequent and expensive intercity public transit that serves a tiny portion of demand for a few communities. This is inconvenient for both Islanders and tourists, dealing with increased traffic, roadway congestion, accidents, and pollution. Moreover, it will be years before the E&N corridor is functional. Better Island Transit is lobbying governments to implement frequent and affordable bus service with low fares throughout the Island. <i>Our first step is to increase the frequency of the existing bus service between Victoria to Duncan.</i> Further initiatives will support bus service to destinations such as Courtenay,  Campbell River, Port Alberni, Ucluelet and Tofino along with potential daily service to Port McNeil and Port Hardy. We hope our initiatives will lead to improvements in intercity bus service throughout the province. <b>Sign up for email updates below.</b>
   hero_images:
-    - alt: "Double-Decker Bus in the CRD"
-      url: "/images/hero/double-decker-bus-crd.png"
-    - alt: "Happy Riders on Their Local Bus"
-      url: "/images/hero/happy-bus-riders.png"
-    - alt: "Malahat Summit Sign"
-      url: "/images/hero/malahat-summit-sign.png"
-    - alt: "Number 66 Bus from Victoria to Duncan"
-      url: "/images/hero/google-maps-bus-victoria-duncan.png"
+    - alt: "Line Outline Of Bus Stop Icon"
+      url: "/images/hero/better-island-transit-hero-1.png"
+    - alt: "Line Outline Of Person Boarding The Bus"
+      url: "/images/hero/better-island-transit-hero-2.png"
+    - alt: "White Outline Of A Mountain"
+      url: "/images/hero/better-island-transit-hero-3.png"
+    - alt: "Line Mapping Bus Route From Victoria To Nanaimo"
+      url: "/images/hero/better-island-transit-hero-4.png"
 
 mailchimp: false
 mailchimp__identifier: https://betterislandtransit.us8.list-manage.com/subscribe/post?u=541ff6359f7c9e7988ad94813&amp;id=795f10b9a4&amp;f_id=005708e0f0
