@@ -1,7 +1,7 @@
 ---
 username: david-sadoway 
 name: David Sadoway 
-image: '/images/logos/logo.png'
+image: '/images/authors/david-sadoway.png'
 designation: "Member, KPU"
 link: https://www.kpu.ca/arts/geography/faculty/david-sadoway 
 ---

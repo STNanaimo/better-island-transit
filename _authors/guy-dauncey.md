@@ -1,7 +1,7 @@
 ---
 username: guy-dauncey
 name: Guy Dauncey
-image: '/images/logos/logo.png'
+image: '/images/authors/guy-dauncey.png'
 designation: "Member"
 link: https://thepracticalutopian.ca 
 ---

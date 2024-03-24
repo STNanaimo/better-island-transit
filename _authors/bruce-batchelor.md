@@ -1,7 +1,7 @@
 ---
 username: bruce-batchelor
 name: Bruce Batchelor
-image: '/images/logos/logo.png'
+image: '/images/authors/bruce-bachelor.jpeg'
 designation: "Member, Closer Commutes"
 link: http://www.closercommutes.org/
 ---
