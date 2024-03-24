@@ -19,11 +19,19 @@
   letter-spacing: $heading-letter-spacing;
   display: flex;
   align-items: center;
+
+  @media (max-width: $mobile) {
+    font-size: 22px;
+  }
 }
 
 .logo_text {
   margin-bottom: 0;
   margin-left: 20px;
+  
+  @media (max-width: $mobile) {
+    margin-left: 0px;
+  }
 }
 
 .logo__image {
@@ -45,10 +53,10 @@
   display: inherit;
   visibility: visible;
 
-  // @media (max-width: $mobile) {
-  //   display: inherit;
-  //   visibility: visible;
-  // }
+  @media (max-width: $mobile) {
+    display: none;
+    visibility: hidden;
+  }
 }
 
 /* Nav */

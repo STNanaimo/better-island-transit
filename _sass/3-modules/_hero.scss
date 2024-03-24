@@ -18,6 +18,14 @@
 
 .hero__right {
   margin-left: 100px;
+  
+  @media (max-width: $wide) {
+    margin-left: 0px;
+  }
+
+  @media (max-width: $mobile) {
+    margin-left: 0px;
+  }
 }
 
 .hero__left {
