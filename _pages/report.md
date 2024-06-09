@@ -24,11 +24,11 @@ More frequent and affordable bus services connecting South and Central Vancouver
 
 BC needs a planning process that can efficiently develop interregional transit services which serve community needs and support strategic goals.
 
-- 🔗 [Download "What We Want And Don't Want"]({{ site.baseurl }}/reports/2023-02-15-what-we-want-and-dont-want.pdf)
+- 🔗 [Download "What We Want And Don't Want"]({{ site.baseurl }}/reports/2024-06-07-what-we-want-and-dont-want.pdf)
 
 British Columbians need a multimodal transportation system that serves everyone’s mobility needs, including interregional travellers who cannot, should not or prefer not to drive. More frequent and affordable intercity bus service is essential for achieving these goals.
 
-<em>Last Updated: February 15th, 2024</em>
+<em>Last Updated: June 7th, 2024</em>
 
 ## Organization Introduction & Objectives Presentation
 
