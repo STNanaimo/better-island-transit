@@ -6,7 +6,15 @@ permalink: /media
 # image: '/images/03.jpg'
 ---
 
-- [Advocates Call For Frequent, Affordable Interregional Transit Service On Vancouver Island (February 28, 2024)](#advocates-call-for-frequent-affordable-interregional-transit-service-on-vancouver-island-february-28-2024)
+- [Group Campaigns for more Public Transport Between Victoria and Duncan](#group-campaigns-for-more-public-transport-between-victoria-and-duncan-june-5-2024)
+- [Advocates Call For Frequent, Affordable Interregional Transit Service On Vancouver Island](#advocates-call-for-frequent-affordable-interregional-transit-service-on-vancouver-island-february-28-2024)
+
+## Group Campaigns for more Public Transport Between Victoria and Duncan (June 5, 2024)
+
+- 🔗 [Read the translated Radio-Canada article on BIT]({{ site.baseurl }}/reports/2024-06-05-cbc-bit.pdf)
+- 🔗 [Read the original French publication of the Radio-Canada article](https://ici.radio-canada.ca/nouvelle/2078390/transport-commun-ile-vancouver-autocar)
+
+Todd Litman spoke with Radio-Canada about Better Island Transit. BC Transit claims there’s little demand for additional services, but we argue that better service would attract more riders. Our goal is to have hourly buses with reasonable fares. We’ve met with provincial officials, who acknowledge the issue but point to existing funding. We need more support to create a reliable intercity transit network.
 
 ## Advocates Call For Frequent, Affordable Interregional Transit Service On Vancouver Island (February 28, 2024)
 

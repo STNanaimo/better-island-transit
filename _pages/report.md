@@ -14,21 +14,17 @@ permalink: /report
 
 Backgrounder document outlining the rationale behind the push for convenient and inexpensive public transit connecting Cental and South Vancouver Island.
 
-- 🔗 [Download "Frequent and Affordable Vancouver Island Bus Service"]({{ site.baseurl }}/reports/2024-03-20-backgrounder.pdf)
-
-<!-- <embed class="embed__pdf" src="{{ site.baseurl }}/reports/2024-03-20-backgrounder.pdf" type="application/pdf"> -->
+- 🔗 [Download "Frequent and Affordable Vancouver Island Bus Service"]({{ site.baseurl }}/reports/2024-06-06-backgrounder.pdf)
 
 More frequent and affordable bus services connecting South and Central Vancouver Island would help many travellers and communities, is far more cost effective, faster to implement, and provides more total benefits than other transportation improvement options. For these reasons, regional districts, BC Transit and MoTI should implement frequent and affordable bus service in 2025.
 
-<em>Last Updated: March 20th, 2024</em>
+<em>Last Updated: June 6th, 2024</em>
 
 ## What We Want and Don't Want
 
 BC needs a planning process that can efficiently develop interregional transit services which serve community needs and support strategic goals.
 
 - 🔗 [Download "What We Want And Don't Want"]({{ site.baseurl }}/reports/2023-02-15-what-we-want-and-dont-want.pdf)
-
-<!-- <embed class="embed__pdf" src="{{ site.baseurl }}/reports/2023-02-15-what-we-want-and-dont-want.pdf" type="application/pdf"> -->
 
 British Columbians need a multimodal transportation system that serves everyone’s mobility needs, including interregional travellers who cannot, should not or prefer not to drive. More frequent and affordable intercity bus service is essential for achieving these goals.
 
@@ -39,8 +35,6 @@ British Columbians need a multimodal transportation system that serves everyone�
 Frequent and affordable bus service with TDM incentives is by far the most cost-effective and way to improve mobility and reduce Island Highway traffic problems.
 
 - 🔗 [Download "Organization Introduction & Objectives Presentation"]({{ site.baseurl }}/reports/2024-02-26-objectives-presentation.pdf)
-
-<!-- <embed class="embed__pdf" src="{{ site.baseurl }}/reports/2024-02-26-objectives-presentation.pdf" type="application/pdf"> -->
 
 We don’t’ want to repeat the slow and costly planning process for the #70 Duncan-Nanaimo route that took a decade and hundreds of thousands of dollars.
 
