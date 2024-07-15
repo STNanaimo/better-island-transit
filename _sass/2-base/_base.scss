@@ -74,6 +74,7 @@ h6 {
   line-height: $heading-line-height;
   letter-spacing: $heading-letter-spacing;
   color: var(--heading-font-color);
+  margin-top: 30px;
 }
 
 h1 {
@@ -119,7 +120,7 @@ blockquote {
 
   cite {
     display: inline-block;
-    margin-top: 20px;
+    margin-top: 10px;
     font-size: 18px;
     font-weight: 500;
     letter-spacing: $heading-letter-spacing;
@@ -168,7 +169,7 @@ img,
 .gallery {
   &+em {
     display: block;
-    margin-top: 20px;
+    margin-top: 10px;
     font-family: $heading-font-family;
     font-size: 12px;
     line-height: 100%;

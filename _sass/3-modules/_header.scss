@@ -6,6 +6,7 @@
     justify-content: space-between;
     align-items: center;
     flex-wrap: wrap;
+    font-weight: bolder;
     padding: 40px $base-spacing-unit;
   }
 }
@@ -35,7 +36,7 @@
 }
 
 .logo__image {
-  max-height: 50px;
+  max-height: 35px;
 
 }
 
@@ -129,9 +130,10 @@
             .dropdown-item {
               position: relative;
               display: block;
-              margin-bottom: 16px;
+              margin-bottom: 18px;
               padding: 0;
-              font-size: 16px;
+              font-size: 18px;
+              font-weight: bolder;
   
               &::before {
                 content: "";
@@ -180,8 +182,9 @@
         .nav__link {
           display: block;
           padding: 0;
-          margin-bottom: 16px;
-          font-size: 16px;
+          margin-bottom: 18px;
+          font-size: 18px;
+          font-weight: bolder;
           text-align: right;
 
           &::before {
@@ -263,9 +266,9 @@
       position: relative;
       padding: 12px 0;
       font-family: $heading-font-family;
-      font-size: 16px;
+      font-size: 18px;
       line-height: 1;
-      font-weight: 500;
+      font-weight: bolder;
       transition: color .2s ease;
 
       &::before {
@@ -383,8 +386,8 @@
           display: flex;
           align-items: center;
           font-family: $heading-font-family;
-          font-size: 16px;
-          font-weight: 500;
+          font-size: 18px;
+          font-weight: bolder;
           line-height: 1;
           color: var(--link-color);
   
@@ -475,7 +478,7 @@
     display: flex;
     align-items: center;
     padding: 12px 20px;
-    font-size: 16px;
+    font-size: 18px;
     font-weight: 500;
     border-radius: 100px;
     transition: all .2s;

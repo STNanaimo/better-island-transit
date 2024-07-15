@@ -9,6 +9,10 @@ permalink: /report
 - [Frequent and Affordable Vancouver Island Bus Service](#frequent-and-affordable-vancouver-island-bus-service)
 - [What We Want and Don't Want](#what-we-want-and-dont-want)
 - [Organization Introduction & Objectives Presentation](#organization-introduction--objectives-presentation)
+- [Provincial Sustainable Transportation Policy Recommendations](#provincial-sustainable-transportation-policy-recommendations)
+- [Protecting Goldstream Park](#protecting-goldstream-park)
+
+---
 
 ## Frequent and Affordable Vancouver Island Bus Service
 
@@ -36,8 +40,28 @@ Frequent and affordable bus service with TDM incentives is by far the most cost-
 
 - 🔗 [Download "Organization Introduction & Objectives Presentation"]({{ site.baseurl }}/reports/2024-02-26-objectives-presentation.pdf)
 
-We don’t’ want to repeat the slow and costly planning process for the #70 Duncan-Nanaimo route that took a decade and hundreds of thousands of dollars.
+We don’t want to repeat the slow and costly planning process for the #70 Duncan-Nanaimo route that took a decade and hundreds of thousands of dollars.
 
 <em>Last Updated: February 26th, 2024</em>
+
+## Provincial Sustainable Transportation Policy Recommendations
+
+Our recommendations for sustainable transportation policy in British Columbia to improve mobility, reduce congestion, and lower emissions.
+
+- 🔗 [Download "Provincial Sustainable Transportation Policy Recommendations"]({{ site.baseurl }}/reports/2024-07-14-provincial-sustainable-transportation-policy-recommendations.pdf)
+
+We recommend that the provincial government prioritize frequent and affordable bus service connecting Victoria with central Vancouver Island, as it offers user and community benefits, reduces congestion, crashes, and emissions more cost-effectively than highway improvements.
+
+<em>Last Updated: July 14th, 2024</em>
+
+## Protecting Goldstream Park
+
+The BC Ministry of Transportation's plan to widen Highway 1 through Goldstream Park involves significant environmental disruption and high costs. 
+
+- 🔗 [Protecting Goldstream Park"]({{ site.baseurl }}/reports/2024-07-12-protecting-goldstream.pdf)
+
+Todd Litman argues that improving public transit services, such as increasing the frequency and affordability of bus routes #66 and #70, would provide greater benefits, reduce environmental impact, and better serve the community compared to the highway expansion.
+
+<em>Last Updated: July 12th, 2024</em>
 
 ***

@@ -20,16 +20,16 @@ menu_settings:
       url: "/about"
     - url: "/goals"
       title: "Goals"
-    - title: "Report"
+    - title: "Reports"
       url: "/report"
+    - url: "/news"
+      title: "News"
     - title: "More"
       submenu:
         - url: "/members"
           title: "Members"
         - url: "/media"
           title: "Media"
-        - url: "/news"
-          title: "News"
         - url: "/press"
           title: "Presskit"
 
@@ -184,5 +184,5 @@ social:
 contact:
   email: contact@betterislandtransit.ca
   description: Nuntu comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want. # Add a description of your form
-disqus_identifier: anvod-studio-test # Add your shortname for Disqus Comment. For example anvod-studio-test
+disqus_identifier:  # Add your shortname for Disqus Comment. For example anvod-studio-test
 google_analytics: # Add your GA Tracking Id

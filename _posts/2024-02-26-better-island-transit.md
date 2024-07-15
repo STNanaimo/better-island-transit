@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Better Island Transit (BIT) Advocates for Frequent and Affordable Public Transit on Vancouver Island"
-description: "Better bus service would benefit tens of thousands of Island residents who cannot, should not or prefer not to drive on busy roadways, and is the most cost-effective way to reduce Island Highway traffic problems"
+description: ""
 date: 2024-02-26
 image: '/images/og.png'
 ---

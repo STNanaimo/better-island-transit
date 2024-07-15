@@ -22,7 +22,7 @@
 
 .project__info__right {
   @media (max-width: $desktop) {
-    margin-bottom: 32px;
+    margin-bottom: 20px;
   }
 }
 
@@ -62,7 +62,7 @@
 
   .project__description {
     display: -webkit-box;
-    margin-bottom: 32px;
+    margin-bottom: 20px;
     font-size: 18px;
     overflow-y: hidden;
     -webkit-line-clamp: 4;
