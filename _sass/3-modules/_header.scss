@@ -6,7 +6,6 @@
     justify-content: space-between;
     align-items: center;
     flex-wrap: wrap;
-    font-weight: bolder;
     padding: 40px $base-spacing-unit;
   }
 }
@@ -133,7 +132,6 @@
               margin-bottom: 18px;
               padding: 0;
               font-size: 18px;
-              font-weight: bolder;
   
               &::before {
                 content: "";
@@ -184,7 +182,6 @@
           padding: 0;
           margin-bottom: 18px;
           font-size: 18px;
-          font-weight: bolder;
           text-align: right;
 
           &::before {
@@ -268,7 +265,6 @@
       font-family: $heading-font-family;
       font-size: 18px;
       line-height: 1;
-      font-weight: bolder;
       transition: color .2s ease;
 
       &::before {
@@ -387,7 +383,6 @@
           align-items: center;
           font-family: $heading-font-family;
           font-size: 18px;
-          font-weight: bolder;
           line-height: 1;
           color: var(--link-color);
   
